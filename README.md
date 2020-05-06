@@ -2,6 +2,11 @@
 ---
 > fork 自 [egg-graphql](https://github.com/eggjs/egg-graphql)，npm包名更换为`egg-graphql-partialable`，使用方法与`egg-graphql`保持一致
 
+## 特别说明
+
+***本项目已经停止更新，并迁移到 [jovercao/egg-graphql](https://github.com/jovercao/egg-graphql)***
+
+## 概述
 在 `egg-graphq`的基础上添加了以下功能：
 
 1. 添加 #import 指令的支持，以支持文件拆分功能，详见下文
